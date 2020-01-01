@@ -1,0 +1,9 @@
+.containerMovies {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.containerMovie {
+    flex: 1 1 250px;
+    padding: 5px;
+}
